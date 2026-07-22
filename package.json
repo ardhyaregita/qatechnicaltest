@@ -1,0 +1,11 @@
+{
+  "name": "booking-automation-test-simple",
+  "version": "1.0.0",
+  "description": "Automation test sederhana (Playwright, tanpa server) untuk validasi price booking dan double booking",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1"
+  }
+}
